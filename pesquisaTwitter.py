@@ -1,3 +1,8 @@
+'''
+Para fazer consultas em tempo real twitter via IDE.
+Para esse caso necessitamos da API do twitter, e com isso você após cadastrar recebera as keys solicitadas no codigo abaixo.
+'''
+
 import oauth2
 import json
 import urllib.parse
