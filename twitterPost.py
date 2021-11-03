@@ -1,4 +1,6 @@
-### Para fazer postagens no twitter via IDE
+'''
+Para fazer postagens no twitter via IDE
+'''
 
 import oauth2
 import json
