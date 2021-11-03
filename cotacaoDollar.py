@@ -1,3 +1,7 @@
+'''
+Para fazer consultar a cotação do dollar em tempo real.
+'''
+
 import requests
 import json
 import time
